@@ -58,7 +58,7 @@ You set up prometheus data source as follows.
 
 ![スクリーンショット 2018-02-26 12.21.27.png](https://qiita-image-store.s3.amazonaws.com/0/110216/3e577ff2-3d72-77e2-8667-ac25810794b9.png)
 
-## Set up graph
+## Set up Grafana
 
 I don't explain here.
 Refer to [Prometheus documentation](https://prometheus.io/docs/introduction/overview/) and [Grafana documentation](http://docs.grafana.org/).
